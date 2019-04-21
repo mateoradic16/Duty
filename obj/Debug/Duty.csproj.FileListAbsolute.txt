@@ -1,0 +1,12 @@
+C:\Users\Mateo\Desktop\Plugin Project\Duty-master\obj\Debug\Duty.csprojAssemblyReference.cache
+C:\Users\Mateo\Desktop\Plugin Project\Duty-master\obj\Debug\Duty.csproj.CoreCompileInputs.cache
+C:\Users\Mateo\Desktop\Plugin Project\Duty-master\obj\Debug\Duty.csproj.CopyComplete
+C:\Users\Mateo\Desktop\Plugin Project\Duty-master\obj\Debug\Duty.dll
+C:\Users\Mateo\Desktop\Plugin Project\Duty-master\Duty.dll
+C:\Users\Mateo\Desktop\Plugin Project\Duty-master\Assembly-CSharp-firstpass.dll
+C:\Users\Mateo\Desktop\Plugin Project\Duty-master\Assembly-CSharp.dll
+C:\Users\Mateo\Desktop\Plugin Project\Duty-master\Rocket.API.dll
+C:\Users\Mateo\Desktop\Plugin Project\Duty-master\Rocket.Core.dll
+C:\Users\Mateo\Desktop\Plugin Project\Duty-master\Rocket.Unturned.dll
+C:\Users\Mateo\Desktop\Plugin Project\Duty-master\UnityEngine.CrashLog.dll
+C:\Users\Mateo\Desktop\Plugin Project\Duty-master\UnityEngine.dll
